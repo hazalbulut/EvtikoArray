@@ -1,0 +1,10 @@
+C:\Users\Toshiba\Desktop\EvtikoArray\EvtikoArray\bin\Debug\EvtikoArray.exe.config
+C:\Users\Toshiba\Desktop\EvtikoArray\EvtikoArray\bin\Debug\EvtikoArray.exe
+C:\Users\Toshiba\Desktop\EvtikoArray\EvtikoArray\bin\Debug\EvtikoArray.pdb
+C:\Users\Toshiba\Desktop\EvtikoArray\EvtikoArray\obj\Debug\EvtikoArray.csprojAssemblyReference.cache
+C:\Users\Toshiba\Desktop\EvtikoArray\EvtikoArray\obj\Debug\EvtikoArray.Form1.resources
+C:\Users\Toshiba\Desktop\EvtikoArray\EvtikoArray\obj\Debug\EvtikoArray.Properties.Resources.resources
+C:\Users\Toshiba\Desktop\EvtikoArray\EvtikoArray\obj\Debug\EvtikoArray.csproj.GenerateResource.cache
+C:\Users\Toshiba\Desktop\EvtikoArray\EvtikoArray\obj\Debug\EvtikoArray.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\EvtikoArray\EvtikoArray\obj\Debug\EvtikoArray.exe
+C:\Users\Toshiba\Desktop\EvtikoArray\EvtikoArray\obj\Debug\EvtikoArray.pdb
